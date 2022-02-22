@@ -1,3 +1,11 @@
+
+# Sobre o projeto:
+
+Esse é um projeto desenvolvido com base em um Framework PHP, inspirado no Laravel, em uma versão mais "Lite".
+Ao em relação a conexão com o banco de dados e as ações de  **CREATE, READ, UPDATE, DELET(CRUD)**, funcionou perfeitamente, tive alguns problemas com rotinas, e um pouco de dificuldade com autenticação.
+
+# Documentação do Lumen:
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
